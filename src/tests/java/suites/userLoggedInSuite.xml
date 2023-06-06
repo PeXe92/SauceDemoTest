@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Functionalities of logged in user" parallel="methods" thread-count="6">
+    <test name="Logged in user">
+        <classes>
+            <class name="testsWithLogin.LogoutTest"></class>
+            <class name="testsWithLogin.AddItemToCart"></class>
+            <class name="testsWithLogin.AddMostExpensiveItemInCart"></class>
+            <class name="testsWithLogin.AddRandomItemToCart"></class>
+            <class name="testsWithLogin.RemoveItemFromCart"></class>
+            <class name="testsWithLogin.TotalPriceTest"></class>
+        </classes>
+    </test>
+</suite>
+       

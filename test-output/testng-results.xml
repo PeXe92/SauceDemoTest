@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-26T22:44:45 CEST" name="Functionalities of logged in user" finished-at="2023-03-26T22:44:59 CEST" duration-ms="14376">
+    <groups>
+    </groups>
+    <test started-at="2023-03-26T22:44:45 CEST" name="Logged in user" finished-at="2023-03-26T22:44:59 CEST" duration-ms="14376">
+      <class name="testsWithLogin.RemoveItemFromCart">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testsWithLogin.RemoveItemFromCart@3eb7fc54]" started-at="2023-03-26T22:44:45 CEST" name="setup" finished-at="2023-03-26T22:44:56 CEST" duration-ms="11478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="removeItem()[pri:0, instance:testsWithLogin.RemoveItemFromCart@3eb7fc54]" started-at="2023-03-26T22:44:56 CEST" name="removeItem" finished-at="2023-03-26T22:44:57 CEST" duration-ms="1172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeItem -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testsWithLogin.RemoveItemFromCart@3eb7fc54]" started-at="2023-03-26T22:44:57 CEST" name="closeBrowser" finished-at="2023-03-26T22:44:58 CEST" duration-ms="928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testsWithLogin.RemoveItemFromCart -->
+      <class name="testsWithLogin.AddMostExpensiveItemInCart">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testsWithLogin.AddMostExpensiveItemInCart@4690b489]" started-at="2023-03-26T22:44:45 CEST" name="setup" finished-at="2023-03-26T22:44:57 CEST" duration-ms="12203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addMostExpensiveItemToCart()[pri:0, instance:testsWithLogin.AddMostExpensiveItemInCart@4690b489]" started-at="2023-03-26T22:44:57 CEST" name="addMostExpensiveItemToCart" finished-at="2023-03-26T22:44:58 CEST" duration-ms="1351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMostExpensiveItemToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testsWithLogin.AddMostExpensiveItemInCart@4690b489]" started-at="2023-03-26T22:44:58 CEST" name="closeBrowser" finished-at="2023-03-26T22:44:59 CEST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testsWithLogin.AddMostExpensiveItemInCart -->
+      <class name="testsWithLogin.AddItemToCart">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testsWithLogin.AddItemToCart@363ee3a2]" started-at="2023-03-26T22:44:45 CEST" name="setup" finished-at="2023-03-26T22:44:56 CEST" duration-ms="11608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addItemToCart()[pri:0, instance:testsWithLogin.AddItemToCart@363ee3a2]" started-at="2023-03-26T22:44:56 CEST" name="addItemToCart" finished-at="2023-03-26T22:44:57 CEST" duration-ms="1191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testsWithLogin.AddItemToCart@363ee3a2]" started-at="2023-03-26T22:44:57 CEST" name="closeBrowser" finished-at="2023-03-26T22:44:58 CEST" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testsWithLogin.AddItemToCart -->
+      <class name="testsWithLogin.AddRandomItemToCart">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testsWithLogin.AddRandomItemToCart@79b06cab]" started-at="2023-03-26T22:44:45 CEST" name="setup" finished-at="2023-03-26T22:44:56 CEST" duration-ms="11214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addRandomItemToCart()[pri:0, instance:testsWithLogin.AddRandomItemToCart@79b06cab]" started-at="2023-03-26T22:44:56 CEST" name="addRandomItemToCart" finished-at="2023-03-26T22:44:57 CEST" duration-ms="1235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRandomItemToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testsWithLogin.AddRandomItemToCart@79b06cab]" started-at="2023-03-26T22:44:57 CEST" name="closeBrowser" finished-at="2023-03-26T22:44:58 CEST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testsWithLogin.AddRandomItemToCart -->
+      <class name="testsWithLogin.TotalPriceTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testsWithLogin.TotalPriceTest@7f552bd3]" started-at="2023-03-26T22:44:45 CEST" name="setup" finished-at="2023-03-26T22:44:56 CEST" duration-ms="11474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkTotalPrice()[pri:0, instance:testsWithLogin.TotalPriceTest@7f552bd3]" started-at="2023-03-26T22:44:56 CEST" name="checkTotalPrice" finished-at="2023-03-26T22:44:59 CEST" duration-ms="2645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTotalPrice -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testsWithLogin.TotalPriceTest@7f552bd3]" started-at="2023-03-26T22:44:59 CEST" name="closeBrowser" finished-at="2023-03-26T22:44:59 CEST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testsWithLogin.TotalPriceTest -->
+      <class name="testsWithLogin.LogoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testsWithLogin.LogoutTest@4386f16]" started-at="2023-03-26T22:44:45 CEST" name="setup" finished-at="2023-03-26T22:44:56 CEST" duration-ms="11566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LogoutTest()[pri:0, instance:testsWithLogin.LogoutTest@4386f16]" started-at="2023-03-26T22:44:56 CEST" name="LogoutTest" finished-at="2023-03-26T22:44:57 CEST" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testsWithLogin.LogoutTest@4386f16]" started-at="2023-03-26T22:44:57 CEST" name="closeBrowser" finished-at="2023-03-26T22:44:58 CEST" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testsWithLogin.LogoutTest -->
+    </test> <!-- Logged in user -->
+  </suite> <!-- Functionalities of logged in user -->
+  <suite started-at="2023-03-26T22:44:21 CEST" name="Login functionality tests" finished-at="2023-03-26T22:44:45 CEST" duration-ms="23142">
+    <groups>
+    </groups>
+    <test started-at="2023-03-26T22:44:21 CEST" name="Login" finished-at="2023-03-26T22:44:45 CEST" duration-ms="23142">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@7692d9cc]" started-at="2023-03-26T22:44:22 CEST" name="setup" finished-at="2023-03-26T22:44:28 CEST" duration-ms="6620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:tests.LoginTest@7692d9cc]" started-at="2023-03-26T22:44:28 CEST" name="loginTest" finished-at="2023-03-26T22:44:29 CEST" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.LoginTest@7692d9cc]" started-at="2023-03-26T22:44:29 CEST" name="closeBrowser" finished-at="2023-03-26T22:44:29 CEST" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.FailedLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:29 CEST" name="setup" finished-at="2023-03-26T22:44:32 CEST" duration-ms="3151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="failedLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:32 CEST" name="failedLogin" data-provider="failedLogin" finished-at="2023-03-26T22:44:33 CEST" duration-ms="519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalidUsername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Epic sadface: Username and password do not match any user in this service]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failedLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:33 CEST" name="closeBrowser" finished-at="2023-03-26T22:44:33 CEST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:33 CEST" name="setup" finished-at="2023-03-26T22:44:37 CEST" duration-ms="3408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="failedLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:37 CEST" name="failedLogin" data-provider="failedLogin" finished-at="2023-03-26T22:44:37 CEST" duration-ms="321" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Epic sadface: Username is required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failedLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:37 CEST" name="closeBrowser" finished-at="2023-03-26T22:44:37 CEST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:37 CEST" name="setup" finished-at="2023-03-26T22:44:41 CEST" duration-ms="3261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="failedLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:41 CEST" name="failedLogin" data-provider="failedLogin" finished-at="2023-03-26T22:44:41 CEST" duration-ms="370" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Epic sadface: Username is required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failedLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:41 CEST" name="closeBrowser" finished-at="2023-03-26T22:44:41 CEST" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:41 CEST" name="setup" finished-at="2023-03-26T22:44:44 CEST" duration-ms="2840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="failedLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:44 CEST" name="failedLogin" data-provider="failedLogin" finished-at="2023-03-26T22:44:44 CEST" duration-ms="383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Epic sadface: Username and password do not match any user in this service]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failedLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.FailedLoginTest@18ce0030]" started-at="2023-03-26T22:44:44 CEST" name="closeBrowser" finished-at="2023-03-26T22:44:45 CEST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.FailedLoginTest -->
+    </test> <!-- Login -->
+  </suite> <!-- Login functionality tests -->
+  <suite started-at="2023-03-26T22:44:59 CEST" name="Regression tests" finished-at="2023-03-26T22:44:59 CEST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Regression tests -->
+</testng-results>
